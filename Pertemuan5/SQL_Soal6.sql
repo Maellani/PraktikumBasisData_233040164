@@ -5,6 +5,7 @@ VALUES
 (3, 233040003, 'Icha Aprilia Putri', '2005-04-20', 'Jl. Flamboyan No. 8', 812345672, 2, 2, 1),
 (4, 233040004, 'Dewi Rahayu', '2005-12-30', 'Jl. Anggrek No. 10', 812456704, 4, 4, 1),
 (5, 233040005, 'Amaliyah Nur Haida', '2005-02-11', 'Jl. Kenanga No. 7', 812345673, 3, 3, 1),
+(6, 233040006, 'Desi Hafita Ashri', '2005-03-13', 'Jl. Setiabudi No. 8', 812435607, 1, 3, 1),
 (7, 233040007, 'Gunawan Saputra', '2005-03-05', 'Jl. Kartini No. 7', 812456707, 3, 7, 1),
 (8, 233040008, 'Dwi Yulianti', '2004-10-25', 'Jl. Bunga No. 15', 812456708, 4, 8, 1),
 (9, 233040009, 'Eko Prasetyo', '2005-03-22', 'Jl. Mawar No. 10', 812345674, 4, 9, 1),
@@ -20,4 +21,3 @@ VALUES
 (19, 233040019, 'Teguh Prihanto', '2005-09-24', 'Jl. Beringin No. 14', 812456719, 3, 9, 1),
 (20, 233040020, 'Umar Hadi', '2005-11-17', 'Jl. Merpati No. 5', 813456720, 4, 10, 1);
 
-SELECT * FROM Mahasiswa
